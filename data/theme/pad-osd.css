@@ -1,30 +1,10 @@
-.Leader {
-    stroke-width: .5 !important;
-    stroke: #535353;
-    fill: none !important;
-}
+/* This file is part of pop-gtk-theme Copyright (C) 2016-2017 Tista <tista.gma500@gmail.com> This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. */
+.Leader { stroke-width: 0.5 !important; stroke: #FAA41A !important; fill: none !important; }
 
-.Button {
-    stroke-width: .25;
-    stroke: #ededed;
-    fill: #ededed;
-}
+.Button { stroke-width: 0.25; stroke: #FAA41A; fill: rgba(250, 164, 26, 0.1); }
 
-.Ring {
-    stroke-width: .5 !important;
-    stroke: #535353 !important;
-    fill: none !important;
-}
+.Ring { stroke-width: 0.5 !important; stroke: #FAA41A !important; fill: none !important; }
 
-.Label {
-    stroke: none !important;
-    stroke-width: .1 !important;
-    font-size: .1 !important;
-    fill: transparent !important;
-}
+.Label { stroke-width: 0.1 !important; stroke: none !important; fill: transparent !important; font-size: 0.1 !important; }
 
-.TouchStrip, .TouchRing {
-    stroke-width: .1 !important;
-    stroke: #ededed !important;
-    fill: #535353 !important;
-}
+.TouchStrip, .TouchRing { stroke-width: 0.1 !important; stroke: #FAA41A !important; fill: rgba(250, 164, 26, 0.25) !important; }

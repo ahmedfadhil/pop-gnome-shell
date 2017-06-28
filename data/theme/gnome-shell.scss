@@ -1,4 +1,6 @@
-$variant: 'dark';
+$variant: 'light';
+$nokto: 'false';
+$eta: 'false';
 
 @import "gnome-shell-sass/_colors"; //use gtk colors
 @import "gnome-shell-sass/_drawing";
